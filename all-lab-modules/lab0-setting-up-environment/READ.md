@@ -32,7 +32,7 @@
     In the bottom panel of your new Cloud9 IDE, you will see a terminal command line terminal open and ready to use.  Run the following git command in the terminal to clone the necessary code to complete this tutorial:
 
     ```
-    $ git clone https://github.com/vanchee/containers-sydsummit-workshop-2019.git
+    $ git clone https://github.com/gamerf/containers-sydsummit-workshop-2019.git
     ```
 
     After cloning the repository, you'll see that your project explorer now includes the files cloned.
@@ -58,6 +58,6 @@ At this point, the Mythical Mysfits website should be available at the static si
 
 ![initial website](images/00-website.png)
 
-Congratulations..!!!  You have completed the First Lab -- [Please proceed to lab2 - here](https://github.com/vanchee/containers-sydsummit-workshop-2019/tree/master/all-lab-modules/lab1-building-docker-image)
+Congratulations..!!!  You have completed the First Lab -- [Please proceed to lab2 - here](all-lab-modules/lab1-building-docker-image)
 
 ###########################
