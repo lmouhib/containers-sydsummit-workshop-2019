@@ -58,6 +58,6 @@ At this point, the Mythical Mysfits website should be available at the static si
 
 ![initial website](images/00-website.png)
 
-Congratulations..!!!  You have completed the First Lab -- [Please proceed to lab 1 - here](/master/tree/all-lab-modules/lab1-building-docker-image)
+Congratulations..!!!  You have completed the First Lab -- [Please proceed to lab 1 - here](/all-lab-modules/lab1-building-docker-image)
 
 ###########################
