@@ -35,7 +35,7 @@ That's why we've hired you to be our first Full Stack Engineer. We need a more s
 You will learn,
 
             * Configure ECS Cluster with Fargate
-            * Splitiing monolith into microservices, leveraging ALB
+            * Spliting monolith into microservices, leveraging ALB
             * CI/CD Pipeline for ECS
 
 ### EKS Learning Path
