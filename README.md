@@ -39,5 +39,5 @@ You will learn,
             * CI/CD Pipeline for ECS
 
 ### EKS Learning Path
-For EKS learning part [click here](https://github.com/gamerf/sydummit-eksworkshop-2019/tree/master/amazon-ecs-mythicalmysfits-workshop/workshop-1)
+For EKS learning part [click here](https://github.com/gamerf/sydummit-eksworkshop-2019/blob/master/workshop-1/)
 
