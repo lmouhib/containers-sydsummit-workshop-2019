@@ -20,15 +20,15 @@ That's why we've hired you to be our first Full Stack Engineer. We need a more s
 
 ### Building your docker image
 
-* Step1 : [Setting up the workshop environment (Cloud9)](blob/master/all-lab-modules/lab0-setting-up-environment/READ.md)
+* Step1 : [Setting up the workshop environment (Cloud9)](all-lab-modules/lab0-setting-up-environment/READ.md)
 
-* Step2 : [Build your Docker image and push it to container repository (ECR)](tree/master/all-lab-modules/lab1-building-docker-image)
+* Step2 : [Build your Docker image and push it to container repository (ECR)](all-lab-modules/lab1-building-docker-image)
 
-* Step3 : [deploy-your-container-to-ecs-fargate-cluster](blob/master/all-lab-modules/lab2a-option1-ecs-labs/01-deploy-your-ecs-fargate-cluster/READ.md)
+* Step3 : [deploy-your-container-to-ecs-fargate-cluster](all-lab-modules/lab2a-option1-ecs-labs/01-deploy-your-ecs-fargate-cluster/READ.md)
 
-* Step4 : [breaking-monolith-image-ecs](blob/master/all-lab-modules/lab2a-option1-ecs-labs/02-breaking-monolith-to-microservices-image-ecs/README.md) 
+* Step4 : [breaking-monolith-image-ecs](all-lab-modules/lab2a-option1-ecs-labs/02-breaking-monolith-to-microservices-image-ecs/README.md) 
 
- * Step5 : [automating-end-to-end-deployments-for-aws-fargate](tree/master/all-lab-modules/lab2a-option1-ecs-labs/03-automating-end-to-end-deployments-for-aws-fargate)
+ * Step5 : [automating-end-to-end-deployments-for-aws-fargate](all-lab-modules/lab2a-option1-ecs-labs/03-automating-end-to-end-deployments-for-aws-fargate)
 
 ### ECS Learning Path
 
