@@ -1,6 +1,6 @@
 ## Let's Begin!
 
-### Lab0 - Workshop Setup:
+### Lab 0 - Workshop Setup:
 
 1. Open the CloudFormation launch template link below in a new tab. The link will load the CloudFormation Dashboard and start the stack creation process in the chosen region:
 
@@ -58,6 +58,6 @@ At this point, the Mythical Mysfits website should be available at the static si
 
 ![initial website](images/00-website.png)
 
-Congratulations..!!!  You have completed the First Lab -- [Please proceed to lab2 - here](all-lab-modules/lab1-building-docker-image)
+Congratulations..!!!  You have completed the First Lab -- [Please proceed to lab 1 - here](/master/tree/all-lab-modules/lab1-building-docker-image)
 
 ###########################
