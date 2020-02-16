@@ -24,11 +24,11 @@ That's why we've hired you to be our first Full Stack Engineer. We need a more s
 
 * Lab 1 : [Build your Docker image and push it to container repository (ECR)](all-lab-modules/lab1-building-docker-image/README.md)
 
-* Lab 2 : [deploy-your-container-to-ecs-fargate-cluster](all-lab-modules/lab2a-option1-ecs-labs/01-deploy-your-ecs-fargate-cluster/READ.md)
+* Lab 2 : [Deploy your container to ECS/Fargate Cluster](all-lab-modules/lab2a-option1-ecs-labs/01-deploy-your-ecs-fargate-cluster/READ.md)
 
-* Lab 3 and Lab 4: [breaking-monolith-image-ecs](all-lab-modules/lab2a-option1-ecs-labs/02-breaking-monolith-to-microservices-image-ecs/README.md) 
+* Lab 3 and Lab 4: [Breaking Monolith Application into Microservices](all-lab-modules/lab2a-option1-ecs-labs/02-breaking-monolith-to-microservices-image-ecs/README.md) 
 
- * Lab 5 : [automating-end-to-end-deployments-for-aws-fargate](all-lab-modules/lab2a-option1-ecs-labs/03-automating-end-to-end-deployments-for-aws-fargate/README.md)
+ * Lab 5 : [Automating end-to-end deployments for AWS Fargate](all-lab-modules/lab2a-option1-ecs-labs/03-automating-end-to-end-deployments-for-aws-fargate/README.md)
 
 ### ECS Learning Path
 
