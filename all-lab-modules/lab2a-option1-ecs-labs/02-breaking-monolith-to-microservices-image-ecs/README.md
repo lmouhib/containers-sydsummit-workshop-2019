@@ -187,7 +187,7 @@ As with the monolith, you'll be using [Fargate](https://aws.amazon.com/fargate/)
 
     * **Launch type** - select **Fargate**
     * **Cluster** - select your workshop ECS cluster
-    * **Service name** - enter a name for the service (e.g. `mysfits-like-service`)
+    * **Service name** - enter a name for the service (e.g. `mythical-mysfits-fargate_Mythical-Like-Service`)
     * **Number of tasks** - enter `1`.
 
     Here's an example:
