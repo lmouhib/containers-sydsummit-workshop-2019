@@ -1,6 +1,6 @@
 # Mythical Mysfits: DevOps with Docker and AWS Fargate
 
-## Lab - Automating End to End Deployments for AWS Fargate for production environments
+## Lab 5 - Automating End to End Deployments for AWS Fargate for production environments
 
 In this lab, you will implement the end to end deployment process for your like service. This lab is where it all comes together. By the end, you will be able to check in new code and have your application automatically updated.
 
