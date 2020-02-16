@@ -279,9 +279,8 @@ The Mythical Mysfits adoption agency infrastructure has always been running dire
 
     ![ECR repositories](images/01-ecr-repo.png)
 
-    Click on the repository name for the monolith, and note down the Repository URI (you will use this value again in the next lab):
-
-    ![ECR monolith repo](images/01-ecr-repo-uri.png)
+    
+    Note down the Repository URI (you will use this value again in the next lab).
 
     *Note: Your repository URI will be unique.*
 
@@ -328,4 +327,4 @@ At this point, you should have a working container for the monolith codebase sto
 
 [*^ back to the top*](#monolith-to-microservices-with-docker-and-aws-fargate)
 
-### Congratulations..!!!  You have completed the Second Lab -- [Please proceed to lab3 - here](https://github.com/vanchee/containers-sydsummit-workshop-2019/blob/master/all-lab-modules/lab2a-option1-ecs-labs/01-deploy-your-ecs-fargate-cluster/READ.md)
+### Congratulations..!!!  You have completed Lab 1 -- [Please proceed to Lab 2 - here](/all-lab-modules/lab2a-option1-ecs-labs/01-deploy-your-ecs-fargate-cluster/READ.md)
