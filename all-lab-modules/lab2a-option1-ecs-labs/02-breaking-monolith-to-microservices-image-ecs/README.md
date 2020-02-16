@@ -171,6 +171,8 @@ As with the monolith, you'll be using [Fargate](https://aws.amazon.com/fargate/)
 
     ![monolith env var](images/04-env-var.png)
 
+    Also add as variable `DDB_TABLE_NAME` for the key and the **DynamoTable** name found in the `workshop-1/cfn-output.json`
+    
     Fargate conveniently enables logging to CloudWatch for you.  Keep the default log settings and take note of the **awslogs-group** and the **awslogs-stream-prefix**, so you can find the logs for this task later.
 
     Here's an example:
