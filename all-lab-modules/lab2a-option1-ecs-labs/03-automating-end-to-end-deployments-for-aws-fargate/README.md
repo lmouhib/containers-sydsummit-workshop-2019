@@ -180,13 +180,7 @@ artifacts:
 
 <b>#[TODO] Ensure you replace the $REPOSITORY_URI and container names in the final file. </b>
 
-2\. We need to move all like service files from local to Code commit repository.
-
- <pre>
-  $ cp -R ~/environment/containers-sydsummit-workshop-2019/all-lab-modules/lab2a-option1-ecs-labs/app/like-service/* ~/environment/REPLACEME_LIKE_REPO_NAME/
-</pre>
-
-Next we need to Add, commit, and push the new files to your repo. You can try to build the app again, but CodeBuild will just do the same thing because it's still looking at buildspec_prod.yml.
+2\. We need to Add, commit, and push the new files to your repo. You can try to build the app again, but CodeBuild will just do the same thing because it's still looking at buildspec_prod.yml.
 
 <pre>
   $ cd ~/environment/REPLACEME_LIKE_REPO_NAME/
