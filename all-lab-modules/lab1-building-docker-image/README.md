@@ -24,7 +24,7 @@ The Mythical Mysfits adoption agency infrastructure has always been running dire
 
     ![Docker Container Image](images/01-container-image.png)
 
-    For example, in the draft file, the first line - `FROM ubuntu:latest` - specifies a base image as a starting point.  The next instruction - `RUN apt-get -y update` - creates a new layer where Docker updates package lists from the Ubuntu repositories.  This continues until you reach the last instruction which in most cases is an `ENTRYPOINT` *(hint hint)* or executable being run.
+    For example, in the draft file, the first line - `FROM ubuntu:18.04` - specifies a base image as a starting point.  The next instruction - `RUN apt-get -y update` - creates a new layer where Docker updates package lists from the Ubuntu repositories.  This continues until you reach the last instruction which in most cases is an `ENTRYPOINT` *(hint hint)* or executable being run.
 
     Add the remaining instructions to Dockerfile.draft.
 
@@ -61,7 +61,7 @@ The Mythical Mysfits adoption agency infrastructure has always been running dire
     <details>
     <summary>HINT: Completed Dockerfile</summary>
    <pre>
-   FROM ubuntu:latest
+   FROM ubuntu:18.04
    RUN apt-get update -y
    RUN apt-get install -y python-pip python-dev build-essential
    RUN pip install --upgrade pip
@@ -151,7 +151,7 @@ The Mythical Mysfits adoption agency infrastructure has always been running dire
     <details>
     <summary>HINT: Final Dockerfile</summary>
    <pre>
-   FROM ubuntu:latest
+   FROM ubuntu:18.04
    RUN apt-get update -y
    RUN apt-get install -y python-pip python-dev build-essential
    RUN pip install --upgrade pip
@@ -189,8 +189,8 @@ The Mythical Mysfits adoption agency infrastructure has always been running dire
     $ docker images
     REPOSITORY                                                              TAG                 IMAGE ID            CREATED              SIZE
     monolith-service                                                        latest              29f339b7d63f        About a minute ago   506MB
-    ubuntu                                                                  latest              ea4c82dcd15a        4 weeks ago          85.8MB
-    golang                                                                  1.9                 ef89ef5c42a9        4 months ago         750MB
+    ubuntu                                                                  18.04               ea4c82dcd15a        4 weeks ago          85.8MB
+    golang                                                                  1.13                ef89ef5c42a9        4 months ago         750MB
     </pre>
 
     *Note: Your output will not be exactly like this, but it will be similar.*
